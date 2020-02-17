@@ -18,7 +18,7 @@ Hashtable<String, String> phoneNumber = new Hashtable<String, String>();
 phoneNumber.put("Candy", "9255555555"); 
 ```
 
-## Retrieving a Number
+## Retrieving a Value from Hashtable
 
 ```java
 String userPhoneNum = phoneNumber.get("Candy");
