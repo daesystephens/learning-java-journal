@@ -14,4 +14,4 @@ The matrix serves as a lookup table, where a value of ```1``` represents an edge
 ## Adjacency List: the hybrid choice
 An adjacency list **is an array of linked lists** that serves the purpose of representing a graph, but also makes it easy to see which other vertices are adjacent to other vertices.</br>
 Each vertex in a graph can easily reference its neighbors through a **linked list**.
-![list](../learning-java-journal/assets/list.jpeg)
+![list](/assets/list.jpeg)
